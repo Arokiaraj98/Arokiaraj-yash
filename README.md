@@ -1,2 +1,0 @@
-# Arokiaraj-yash
-NodeJS - Assignment
