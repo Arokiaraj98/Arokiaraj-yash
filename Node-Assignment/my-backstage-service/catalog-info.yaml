@@ -1,14 +1,15 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-service
-  description: My first Backstage catalog entry
+  name: my-test-service
+  description: >
+    My first Backstage catalog entry
   tags:
     - practice
     - training
   annotations:
-    github.com/project-slug: Arokiaraj98/Arokiaraj-yash
+    github.com/project-slug: "your/repo"
 spec:
   type: service
   lifecycle: experimental
-  owner: guests
+  owner: Backstage booting up
